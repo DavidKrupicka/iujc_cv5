@@ -20,5 +20,5 @@ Napište funkci, která vrací četnost požadovaného znaku v řetězci. Hlavn�
 Modifikace: funkce vrací void, hodnotu četnosti obsahuje proměnná volaná „odkazem“ 
 Příklad požadované funkce: 
 ```c
-int cetnostZn(char string[],char znak);
+void cetnostZn(char string[],char znak);
 ```
